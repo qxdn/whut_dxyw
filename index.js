@@ -5,7 +5,7 @@ let name = "username";
 //密码
 let pwd = "password";
 //请求时间 ms 默认两分钟
-let freq = 1000 * 60 ** 2;
+let freq = 1000 * 60 * 2;
 
 let loginUrl = "http://59.69.102.9/zgyw/index.aspx";
 let learnUrl = "http://59.69.102.9/zgyw/study/LearningContent.aspx?type=2&id=11&learningid=2618";
